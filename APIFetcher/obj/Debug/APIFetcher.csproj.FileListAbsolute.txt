@@ -1,0 +1,13 @@
+D:\Code\LatestSubModule\Helpers\APIFetcher\APIFetcher\bin\Debug\APIFetcher.exe.config
+D:\Code\LatestSubModule\Helpers\APIFetcher\APIFetcher\bin\Debug\APIFetcher.exe
+D:\Code\LatestSubModule\Helpers\APIFetcher\APIFetcher\bin\Debug\APIFetcher.pdb
+D:\Code\LatestSubModule\Helpers\APIFetcher\APIFetcher\bin\Debug\Newtonsoft.Json.dll
+D:\Code\LatestSubModule\Helpers\APIFetcher\APIFetcher\bin\Debug\Newtonsoft.Json.xml
+D:\Code\LatestSubModule\Helpers\APIFetcher\APIFetcher\obj\Debug\APIFetcher.csprojAssemblyReference.cache
+D:\Code\LatestSubModule\Helpers\APIFetcher\APIFetcher\obj\Debug\APIFetcher.Form1.resources
+D:\Code\LatestSubModule\Helpers\APIFetcher\APIFetcher\obj\Debug\APIFetcher.Properties.Resources.resources
+D:\Code\LatestSubModule\Helpers\APIFetcher\APIFetcher\obj\Debug\APIFetcher.csproj.GenerateResource.cache
+D:\Code\LatestSubModule\Helpers\APIFetcher\APIFetcher\obj\Debug\APIFetcher.csproj.CoreCompileInputs.cache
+D:\Code\LatestSubModule\Helpers\APIFetcher\APIFetcher\obj\Debug\APIFetcher.csproj.CopyComplete
+D:\Code\LatestSubModule\Helpers\APIFetcher\APIFetcher\obj\Debug\APIFetcher.exe
+D:\Code\LatestSubModule\Helpers\APIFetcher\APIFetcher\obj\Debug\APIFetcher.pdb
